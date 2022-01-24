@@ -1,4 +1,4 @@
-# Archives of game collections
+# Game collections
 Lots of games packed onto these images (accessed via the menu I wrote as a young lad)
 
 There are one or two games in there that I wrote when I was a young lad (and some games will have had their protections stripped off by me and/or some tape-based or tape-only games will have been transferred from tape to disk by me).
