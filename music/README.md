@@ -4,6 +4,9 @@
 A large collection of songs which can play on a standard BBC Micro.
 
 It's worth noting that there are many more songs on this disk than show up in the menu. You'll have to dig inside manually to find the rest. At least one of these songs was programmed by yours truly!
+<details><summary>Contents of disk</summary>
+&nbsp  
+ 
 - airwolf
 - axel-f
 - black and white rag
@@ -41,6 +44,8 @@ It's worth noting that there are many more songs on this disk than show up in th
 - toccata
 - tune
 - whiter shad of pale
+</details>
+
 ## Ample Music
 These files require the use of a Music 500 (or 5000). I remember being lucky enough to get one of these for a birthday present from my parents.
 
@@ -52,8 +57,15 @@ From boot-up, the following will play a track from the AmpleFile1 folder -
 "axelf" LOAD
 RUN
 ```
+
+<details><summary>Contents of disk</summary>
+
 ### AmpleFile1
 Maybe these tracks came with the Music 500?
+
+<details><summary>Contents of folder</summary>
+&nbsp  
+ 
 - aintmis
 - axelf
 - babyel
@@ -96,8 +108,14 @@ Maybe these tracks came with the Music 500?
 - walk
 - wild
 - yesday
+</details>
+
 ### AmpleFile2
 Again, I don't know if these tracks came with the Music 500 or not
+
+<details><summary>Contents of folder</summary>
+&nbsp  
+ 
 - adeline
 - airwolf
 - apache
@@ -141,8 +159,14 @@ Again, I don't know if these tracks came with the Music 500 or not
 - what
 - ylovers
 - zorba
+</details>
+  
 ### OwnWork
 These compositions were definitely entered by me - I haven't tested them so have no idea what they're like. I was young and experimenting with the Music 500 so I wouldn't go expecting too much from them!
+
+<details><summary>Contents of folder</summary>
+&nbsp  
+ 
 - boh
 - DamBaccent
 - DamBusters
@@ -156,4 +180,5 @@ These compositions were definitely entered by me - I haven't tested them so have
 - WalkingAir
 - whistle
 - wow
-
+  </details>
+  </details>
