@@ -79,18 +79,18 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 ### Fruit Machines
 - Superfruit (Simonsoft)
 ### Defender Type Games
-- Choplifter - _Looks like a pre-release (with source code) of AirLift by Superior Software_
-- Defender
-- Eagle's Wing
-- Moon Raider
-- Rocket Raid
-- Sky Hawk
+- Choplifter - _Looks like a pre-release (with source code) of AirLift by Superior Software - seems to be a different author though!_
+- Defender [Hack] - _Extremely similar to bbcmicro.co.uk image of Super Defender [Hack]_
+- Eagle's Wing (Software Invasion)
+- Moon Raider (Micro Power)
+- Rocket Raid (Acornsoft) - _Doesn't seem to work_
+- Sky Hawk (PACE)
 ### Simulations
-- Aviator
-- Harrier
-- Revs
+- Aviator (Acornsoft)
+- Strike Force Harrier (Mirrorsoft)
+- Revs (Acornsoft) - _Doesn't seem to work_
 ### Space Invader Games
-- Space Jail
+- Space Jailer (Micro Power) - _Crashes when run but if you call the execution address after the crash it works fine_
 - Star Strike
 - Super Invaders
 - Swoopy
