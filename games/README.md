@@ -71,15 +71,15 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 ---
 ## Games - Assorted
 ### Breakout Games
-- Breakout
-- Impact
+- Breakout (Acornsoft)
+- Impact (Audiogenic)
 ### Dig Dug Type Games
-- Mine
-- Mr Ee
+- The Mine (Micro Power)
+- Mr Ee! (Micro Power)
 ### Fruit Machines
-- Fruity
+- Superfruit (Simonsoft)
 ### Defender Type Games
-- Choplifter
+- Choplifter - _Looks like a pre-release (with source code) of AirLift by Superior Software_
 - Defender
 - Eagle's Wing
 - Moon Raider
