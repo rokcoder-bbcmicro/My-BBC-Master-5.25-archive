@@ -10,64 +10,64 @@ Hopefully I'll go through these disks at some point, remove duplication, ensure 
 ---
 ## Adventures - Graphical 1
 _Uses my funky old menu that I was so proud of back then :) (As do most of these disks)_
-- Banjax
-- Bone Cruncher
-- Cholo
-- Escape Moonbase Alpha
-- Exile
-- Impossible Mission
-- Labyrinth
-- Last of the Free
-- Nightshade
-- Palace of Magic
-- Ravenskull
-- Space Adventure
-- Spell Binder
-- Star Quake
-- Thunderstruck
+- Banjax (Robico) - _not working here for some reason_
+- Bone Cruncher (Superior Software)
+- Cholo (Firebird Software)
+- Escape Moonbase Alpha (Micro Power)
+- Exile (Superior Software / Acornsoft)
+- Impossible Mission (U.S. Gold)
+- Labyrinth (Acornsoft)
+- Last of the Free (Audiogenic Software)
+- Nightshade (Ultimate Play The Game)
+- Palace of Magic (Superior Software / Acornsoft)
+- Ravenskull (Superior Software / Acornsoft)
+- Space Adventure (Virgin Games)
+- Spell Binder (Superior Software)
+- Star Quake (Bubble Bus)
+- Thunderstruck (Audiogenic Software)
 ---
 ## Adventures - Graphical 2
-- Bug Eyes 2
-- Sim
-- Codename Droid
-- Hunkydory
-- Yoyo
+- Bug Eyes 2 (Audiogenic Software)
+- Sim (Viper)
+- Codename Droid (Superior Software / Acornsoft)
+- Hunkidory (Bug-Byte)
+- Yoyo! (Superior Software)
 ---
 ## Adventures 1
 ### Robico
-- Enthar Seven
-- Rick Hanson
+- Escape From Enthar Seven (Robico)
+- Rick Hanson (Robico)
 ### Superior Software
-- Colditz
+- Colditz Adventure (Superior Software)
 ### Others
-- Bulldog
-- Caveman
-- Ferry Man
-- Island
-- The Pen and the Dark
-- Ransom
-- Stranded
-- Venture
+- The Bull-Dog Runner (Model B Computing)
+- Caveman Adventure (Micro Power)
+- The Ferryman Awaits (Kansas City Systems)
+- Island Adventure (Glengary Soft)
+- The Pen and the Dark (Mosaic Publishing)
+- King's Ransom (Incentive) - _Seems to be a text only version_
+- Stranded (Superior Software)
+- Seek (Micro Power) - _Called Venture on the disc_
 ---
 ## Adventures 2
 ### Abersoft
-- Classic Adventure
+- Classic Adventure (Melbourne House)
 ### Epic
-- Holy Grail
-- Wheel
+- Quest for the Holy Grail (Epic Adventures)
+- The Wheel of Fortune (Epic Adventures)
 ### Micro Prime
-- Mallory
+- Mallory Manor (MAPE)
 ### MP Software
-- Blue Dragon
+- Blue Dragon (MP Software)
 ### Program Power
-- Eldorado Gold
+- Eldorado Gold (Micro Power)
 ### Silversoft
-- Bored of the Rings Pt 1
-- Bored of the Rings Pt 2
-- Bored of the Rings Pt 3
+- Bored of the Rings Part 1 (Silversoft Ltd) _Individual games unlike disc image at bbcmicro.co.uk_
+- Bored of the Rings Part 2 (Silversoft Ltd)
+- Bored of the Rings Part 3 (Silversoft Ltd)
 ---
 ## Adventures 3
-- Lord of the Rings _(I think it all works but I haven't set it up to run from the correct folders automatically)_
+- The Lord of the Rings (Melbourne House)
 ---
 ## Games - Assorted
 ### Breakout Games
