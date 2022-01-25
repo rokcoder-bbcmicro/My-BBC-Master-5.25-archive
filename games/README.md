@@ -14,7 +14,7 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Bone Cruncher (Superior Software)
 - Cholo (Firebird Software)
 - Escape Moonbase Alpha (Micro Power)
-- Exile (Superior Software / Acornsoft)
+- Exile (Superior Software / Acornsoft) - _Password system hacked by me_
 - Impossible Mission (U.S. Gold)
 - Labyrinth (Acornsoft)
 - Last of the Free (Audiogenic Software)
@@ -91,20 +91,20 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Revs (Acornsoft) - _Doesn't seem to work_
 ### Space Invader Games
 - Space Jailer (Micro Power) - _Crashes when run but if you call the execution address after the crash it works fine_
-- Star Strike
-- Super Invaders
-- Swoopy
-- Syncron
-- War
-- Zalaga
+- Star Striker (Superior Software)
+- Super Invaders (Acornsoft)
+- Swoop (Micro Power)
+- Syncron (Superior Software)
+- W.A.R. (Martech)
+- Zalaga (Aardvark)
 ### More Invader Games
-- Arcadians
-- Astro Belt
-- Astro Blast
-- Bandit
-- Bug Blaster
-- Carnival
-- Death Star
+- Arcadians (Acornsoft)
+- Asteroid Belt (Computer Concepts)
+- Astro Blaster (HiTech)
+- Bandit (Acornsoft)
+- Bug Blaster (Alligata)
+- Carnival [pre-release] (Acornsoft)
+- Deathstar (Superior Software) - _Doesn't seem to work_
 - Firetrack
 - Gala Force
 - Hell Force
