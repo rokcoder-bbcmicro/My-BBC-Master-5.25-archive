@@ -105,17 +105,17 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Bug Blaster (Alligata)
 - Carnival [pre-release] (Acornsoft)
 - Deathstar (Superior Software) - _Doesn't seem to work_
-- Firetrack
-- Gala Force
-- Hell Force
-- Invaders
-- Meteors
-- Asteroid Belt
-- Nemesis
-- Positron
-- Robotron
-- Sea Lord
-- Space City
+- Firetrack (Electric Dreams)
+- Galaforce (Superior Software)
+- Hellforce (Acornsoft)
+- Electron Invaders (Micro Power) - _Called Invaders on the disc_
+- Meteors (Acornsoft)
+- Asteroid Belt (Computer Concepts)
+- Nemesis (Micro Power)
+- Positron (Micro Power)
+- Robotron (Silversoft)
+- Sea Lord (Bug-Byte)
+- Space City (Beebug Magazine)
 ---
 ## Games - Frogger + General
 ### Frogger Games
