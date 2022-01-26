@@ -23,6 +23,9 @@ Similarly, to choose DFS you can do any of the following
 ```
 </details>
 
+### Master 128 incompatibilities
+There are a small handful of archived games that don't work properly on the BBC Master but are stored on ADFS disk images regardless. Most of these will run but have messed up user-defined characters (because they're stored in a different location on the Master). A few won't run at all.
+
 _This is a work in progress and will no doubt be going on for weeks (if not months) so don't forget to come back!_
 ## Games
 These contain all the collections of games I had. Most of the disks are bootable and use the menu I wrote back in my school days.
