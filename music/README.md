@@ -49,7 +49,7 @@ It's worth noting that there are many more songs on this disk than show up in th
 ## Ample Music
 These files require the use of a Music 500 (or 5000). I remember being lucky enough to get one of these for a birthday present from my parents.
 
-Fortunately BeebEm emulates the Music 5000 so you can try these without needing the extra hardware. If you boot the disk it drop you into AMPLE which is the language used by the Music 5000. I remember very little about it but have recalled just enough to play these tracks!
+Fortunately BeebEm emulates the Music 5000 (via an on/off menu option under the Sound heading) so you can try these without needing the extra hardware. If you boot the disk it drop you into AMPLE which is the language used by the Music 5000. I remember very little about it but have recalled just enough to play these tracks!
 
 From boot-up, the following will play a track from the AmpleFile1 folder -
 ```
