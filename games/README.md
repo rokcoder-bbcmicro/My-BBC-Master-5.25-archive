@@ -203,12 +203,12 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Jet Boat (Software Invasion)
 - Kung Fu Master (Your Computer) - _Electron version_
 - Big KO Editor - _I don't think this was publised. It was written by the author of The Big KO for the designer to use_
-- Pool
-- Soccer Manager
-- Stock Car
-- Super Golf
-- Winter Olympics
-- Matchday
+- Pool Hall (Dynabyte)
+- Soccer Manager (Micro User)
+- Stock Car (Micro Power)
+- Super Golf (Squirrel Software)
+- Winter Olympics (Tynesoft)
+- Matchday (Ocean) - _Another one apparently stripped of protection and trasnferred to disc by yours truly_
 ---
 ## Games - Strategy, Skill and Intellect
 - Chess (Acornsoft)
