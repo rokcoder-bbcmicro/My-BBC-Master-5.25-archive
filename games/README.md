@@ -359,45 +359,45 @@ Looks like I was in the middle of hacking Frak onto disc!
 ---
 ## Games 5
 ### Maze Games
-- 3D Maze
-- Beeb Maze
-- Kremlin
-- Acornsoft Maze
+- 3D Maze (IJK Software)
+- Beeb Maze (Beebug Magazine)
+- Kremlin (Doctor Soft)
+- Acornsoft Maze (Acornsoft)
 ### Pacman type games
-- Bumble Beeb
-- Crypt Capers
-- Munchy
-- Pacman
-- Saloon Sally
-- Santa
-- Snapper
+- Bumble Bee (Micro Power)
+- Crypt Capers (Software Projects)
+- Munchyman (Micro Power)
+- Snapper (Acornsoft) - _Called "Pacman" in the menu - probably because it's the 1982 version that actually looks like Pacman_
+- Saloon Sally (Psion)
+- Christmas Antics (Beebug Magazine) - _Called "Santa" in the menu_
+- Snapper (Acornsoft)
 ### Shoot it if it moves
-- Airwolf
-- 3D Bomb Alley
-- Bomber
-- City Defence
-- Commando
-- Cylon Attack
-- Dogfight
-- Dragon Rider
-- Fortress
-- Liberator
-- Missile Base
-- Missiles
-- Plan B
-- Raid Over Moscow
-- Shootout
-- Space Ranger
-- Starship Commander
-- Star Swarm
+- Airwolf (Elite)
+- 3D Bomb Alley (Software Invasion)
+- Bomber (Beebug Magazine)
+- City Defence (Bug-Byte)
+- Commando (Elite)
+- Cylon Attack (A&F Software)
+- Dogfight (Opus)
+- Dragon Rider (Salamander)
+- Fortress (Pace)
+- Liberator (Gemini)
+- Missile Base (Acornsoft) - _Doesn't seem to work_
+- Missiles (E. Mayer) - _I'm pretty sure this was made by my awesome maths teacher at secondary school_
+- Plan B (Bug-Byte)
+- Raid Over Moscow (U.S. Gold)
+- Cowboy Shootout (Micro Power)
+- 3D Space Ranger (Microbyte)
+- Starship Command (Acornsoft)
+- Star Swarm (Acornsoft)
 ### More wild Blasting
-- Cybertron
-- Star Wars
-- Stratobomber
-- Thrust
-- Vtol
-- Webrunner
-- Wizard
+- Cybertron Mission (Micro Power)
+- Star Wars (Domark)
+- Stratobomber (IJK Software)
+- Thrust (Superior Software) 
+- Vtol (?) - _I suspect this is a demo that was never completed but am not sure - no sign of it on bbcmicro.co.uk_
+- Web Runner (Alligata)
+- The Wizard (Quicksilva)
 ### Star Trek type games
-- Star Force Seven
-- Time Trek
+- Star Force Seven (Bug-Byte)
+- Timetrek (Micro Power)
