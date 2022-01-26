@@ -326,8 +326,11 @@ _This one has more games on it than are showing up in the menu - I seem to have 
 - Meteors (Acornsoft)
 ---
 ## Games 3
-_Looks like a broken Strategy folder and a WIP of me stripping the protection out of Frak_
-
+### PlatLadder
+Looks like I was in the middle of hacking Frak onto disc!
+### Strategy
+- Sink the Bismarck (Design People Software)
+- System 15000 (AVS)
 ---
 ## Games 4
 ### Arcade Games
