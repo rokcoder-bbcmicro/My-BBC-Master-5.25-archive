@@ -185,24 +185,24 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - XOR (Astral Software)
 ---
 ## Games - Sports
-- Brian Jacks Challenge
-- Crazee Rider
-- Test Cricket
-- Football Manager
-- Grand Prix Construction
-- Holed Out
-- Horse Gambling
-- Karate Combat
-- Monaco
-- Pole Position
-- Racer
-- Ski Slalom
-- Snooker
-- The Big KO
-- 3D Grand Prix
-- Jet Boat
-- Kung Fu Master
-- Big KO Editor
+- Brian Jacks: Superstar Challenge (Martech)
+- Crazee Rider (Superior Software)
+- World Cup Cricket (Copmuter Rentals) - _Called Test Cricket in the menu_
+- Football Manager (Addictive Games)
+- Grand Prix Construction Set (Superior Software)
+- Holed Out!! (4th Dimension)
+- Micro Derby (Bug-Byte) - _Called "Horse Gambling" in the menu_
+- Karate Combat (Superior Software)
+- Monaco (Alligata)
+- Pole Position (Atarisoft)
+- Racer (Beebug Magazine)
+- Ski Slalom (R.H. Software)
+- Snooker (Acornsoft)
+- The Big KO (Tynesoft) - _This is interesting because it says it's for the Master - the bbcmicro.co.uk version displays "BBC Micro"_
+- 3D Grand Prix (Software Invasion)
+- Jet Boat (Software Invasion)
+- Kung Fu Master (Your Computer) - _Electron version_
+- Big KO Editor - _I don't think this was publised. It was written by the author of The Big KO for the designer to use_
 - Pool
 - Soccer Manager
 - Stock Car
