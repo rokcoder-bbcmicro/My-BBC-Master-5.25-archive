@@ -334,28 +334,28 @@ Looks like I was in the middle of hacking Frak onto disc!
 ---
 ## Games 4
 ### Arcade Games
-- Star Wars
-- Tetris
-- Thrust
-- Plan B
-- Vtol
+- Star Wars (Domark)
+- Tetris (Mirrorsoft)
+- Thrust (Superior Software)
+- Plan B (Bug-Byte)
+- Vtol (?) - _I suspect this is a demo that was never completed but am not sure - no sign of it on bbcmicro.co.uk_
 ### Graphical adventures
-- Cholo
-- Spellbinder
-- Boffin 2
-- Exile
-- Last of the Free
+- Cholo (Firebird Software)
+- Spell Binder (Superior Software)
+- Boffin 2 (Addictive Games)
+- Exile (Superior Software / Acornsoft) - _Password system hacked by me_
+- Last of the Free (Audiogenic Software)
 ### Leisure games
-- Fruity
+- Superfruit (Simonsoft)
 ### Sport
-- Racer
-- Holed Out
-- Crazee Rider
+- Racer (Beebug Magazine)
+- Holed Out!! (4th Dimension)
+- Crazee Rider (Superior Software)
 ### Strategy
-- Chess
-- Letter Puzzle _(Looks like one I wrote for my O' Level - I wonder if any others of mine are strewn randomly around)_
+- Chess (Micro Power)
+- Sliding Letter Puzzle (Cliff Davies) _Looks like one I wrote for my O' Level - I wonder if any others of mine are strewn randomly around)_
 ### Shoot 'em ups
-- Galaforce
+- Galaforce (Superior Software)
 ---
 ## Games 5
 ### Maze Games
