@@ -283,47 +283,47 @@ _This one has more games on it than are showing up in the menu - I seem to have 
 ---
 ## Games 2
 ### Breakout Games`
-- Breakout
+- Breakout (Acornsoft)
 ### Dig Dug type games
-- Mr Ee
+- Mr Ee (A&F Software)
 ### Fruit Machines
-- Fruity
+- Superfruit (Simonsoft)
 ### Indefinable games
-- Air Brush
+- Airbrush (Soft Hits)
 - Bat and Ball
-- Hunchy
-- Painter
-- The Real You
-- Tetris
+- Hunchback (Superior Software)
+- Painter (A&F Software)
+- The Real You (Collins)
+- Tetris (Mirrorsoft)
 ### Scramble type games
-- Defender
-- Eagles Wing
-- Moon Raider
-- Rocket Raid
-- Choplifter
+- Defender [Hack] - _Extremely similar to bbcmicro.co.uk image of Super Defender [Hack]_
+- Eagle's Wing (Software Invasion)
+- Moon Raider (Micro Power)
+- Rocket Raid (Acornsoft) - _Doesn't seem to work_
+- Choplifter - _Looks like a pre-release (with source code) of AirLift by Superior Software - seems to be a different author though!_
 ### Shooting Games
-- Airwolf
-- Cyclon Attack
-- Dogfight
-- Dragon Rider
-- Liberator
-- Missile Base
-- Plan B
-- Shootout
-- Space Ranger
-- Starship Commander
-- Star Swarm
-- Star Wars
-- Stratobomber
-- Thrust
-- Vtol
-- Web Runner
-- Wizard
+- Airwolf (Elite)
+- Cylon Attack (A&F Software)
+- Dogfight (Opus)
+- Dragon Rider (Salamander)
+- Liberator (Gemini Games)
+- Missile Base (Acornsoft) - _Doesn't seem to be working_
+- Plan B (Bug-Byte)
+- Cowboy Shootout (Micro Power)
+- 3D Space Ranger (Microbyte)
+- Starship Command (Acornsoft)
+- Star Swarm (Acornsoft)
+- Star Wars (Domark)
+- Stratobomber (IJK Software)
+- Thrust (Superior Software)
+- Vtol (?) - _I suspect this is a demo that was never completed but am not sure - no sign of it on bbcmicro.co.uk_
+- Web Runner (Alligata)
+- The Wizard (Quicksilva)
 ### Simulations
-- Aviator
-- Revs
+- Aviator (Acornsoft)
+- Revs 5 Tracks (Acornsoft)
 ### Space Invaders
-- Meteor
+- Meteors (Acornsoft)
 ---
 ## Games 3
 _Looks like a broken Strategy folder and a WIP of me stripping the protection out of Frak_
