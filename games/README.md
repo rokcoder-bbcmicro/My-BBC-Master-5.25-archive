@@ -249,37 +249,37 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Trivial Pursuit Genus Edition (Domark)
 ---
 ## Games 1
-_This one has more games on it than are showing up in the menu_
-- Gyroscope
-- Joe Blade
-- Mine Shaft
-- Ninja
-- Space Arena
-- Tetris
-- Tom Cat
-- Alien Drop
-- Barrage
-- Boffin
-- Bruce
-- Centipede
-- Cylon
-- Dambusters
-- Eaters
-- Exile
-- Flip
-- Footman
-- Frogger
-- Fruit Mach
-- Galaxians
-- Heist
-- Invader
-- Invaders
-- Matchday
-- Mr Ee
-- Positro
-- Slidey
-- Snapper
-- SpcFighter
+_This one has more games on it than are showing up in the menu - I seem to have been in the process of moving games over from DFS which is why a handful of them are expecting the executables to be in the A directory_
+- Gyroscope (Melbourne House)
+- Joe Blade 2 (Players) - _Called "Joe Blade" in menu - also, runs in white instead of green which may be a BeebEm or Master thing?_
+- Mineshaft (Durell)
+- The Last Ninja (Superior Software)
+- Space Arena (Ozark Software) - _Marked as "this game is lost" at bbcmicro.co.uk_
+- Tetris (Mirrorsoft)
+- F14 Tomcat (Players)
+- Alien Dropout (Superior Software)
+- Barrage (Micro Power)
+- Boffin 2 (Addictive Games) - _Called "boffin" in the menu and also doesn't work from the menu is it needs to be *RUN rather then CHAIN_
+- Bruce Lee [pre-release] (Micro Power)
+- Centipede (Superior Software)
+- Cylon Attack (A&F Software) - _Doesn't run from menu as first part is *RUNning A.CYLON instead of CYLON_
+- Dambusters (Alligata)
+- Purple People Eaters (R.H. Software) - _Looks like a pre-release version of Plegaron People Eaters (written entirely in BASIC) - not in bbcmicro.co.uk_
+- Exile (Superior Software) - _Whichever version this is, it was cracked by me :)_
+- Flip! The Cartoon Strategy Game (Icon)
+- Football Manager (Addictive Games)
+- Frogger (Superior Software)
+- Fruit Machine (Superior Software)
+- Galaxians (Superior Software)
+- Heist (Softspot) - _Doesn't run from the menu but a simple *HEIST2 will do the job_
+- Invaders (IJK Software) - _Called "invader" in the menu and doesn't run from the menu - a simple *INVADER will do the trick_
+- Space Invaders (Superior Software) - _Called "invaders" in the menu_
+- Matchday (Ocean) - _Protection broken and transferred to disc by me!_
+- Mr. Ee! (A&F Software) - _Front end seems to have been written by me! Again, needs a manual *MR-EE to actually play the game_
+- Positron (Micro Power) - _Another one expecting the main game to be in the A directory_
+- Slidey (?) - _If I had to guess, I would say this was something I was working on. It's asking for a screen file to load at 3000 and it then shuffles the screen_
+- Snapper (Acornsoft) - Another one waiting for me to sort the directories out - does work but needs manual poking_
+- Space Fighter (Superior Software)
 ---
 ## Games 2
 ### Breakout Games`
