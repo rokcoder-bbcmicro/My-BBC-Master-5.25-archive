@@ -119,37 +119,37 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 ---
 ## Games - Frogger + General
 ### Frogger Games
-- Croaker
-- Froglet
-- Hedgehog
-- Hopper
-- Leapfrog
+- Croaker (Micro Power)
+- Froglet (Argus Press)
+- Hedgehog (Beebug Magazine)
+- Hopper (Acornsoft)
+- Leapfrog (IJK Software)
 ### General Games
-- Mikie
-- Painter
-- Tetris
-- Sink the Bismark
-- Crazy Painter
-- Sentinel
-- System 15000
-- Zarm
-- Airbrush
-- Bat and ball
-- Combat Lynx
-- Harvey Headbanger
-- Hunchy
-- Pinball
-- Q Man
-- The Real You
-- Screw Ball
-- Statix
-- Tapper
-- Transistor's Revenge
-- Free Fall
-- JCB Digger
-- Meteor Missoin
-- Snake
-- Tracer
+- Mikie (Imagine)
+- Painter (A&F Software)
+- Tetris (Mirrorsoft)
+- Sink the Bismarck (Design People Software)
+- Crazy Painter (Superior Software)
+- The Sentinel (Firebird Software)
+- System 15000 (AVS)
+- Zarm (Micro Power)
+- Airbrush (Soft Hits)
+- Bat and ball - _Apparently a simple bat and ball game I wrote specifically o play against "Julian"_
+- Combat Lynx (Durell)
+- Harvey Headbanger (Firebird Software)
+- Hunchback (Superior Software)
+- Pinball Arcade (Kansas City Systems)
+- Q-Man (MRM Software)
+- The Real You (Collins)
+- Screw Ball (MRM Software)
+- Statix (Psion) - _Doesn't seem to work from menu but works when final part is *RUN - Master issue maybe_
+- Tapper (U.S. Gold)
+- Transistor's Revenge (Softspot)
+- Free Fall (Acornsoft)
+- JCB Digger (Acornsoft)
+- Meteor Mission (Acornsoft)
+- Snake (Acornsoft)
+- Crazy Tracer (Acornsoft)
 ---
 ## Games - General
 - Space Man Sid
