@@ -134,7 +134,7 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - System 15000 (AVS)
 - Zarm (Micro Power)
 - Airbrush (Soft Hits)
-- Bat and ball - _Apparently a simple bat and ball game I wrote specifically o play against "Julian"_
+- Bat and ball (Cliff Davies) - _Apparently I wrote a simple bat and ball game specifically to play against "Julian"_
 - Combat Lynx (Durell)
 - Harvey Headbanger (Firebird Software)
 - Hunchback (Superior Software)
@@ -212,41 +212,41 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 ---
 ## Games - Strategy, Skill and Intellect
 - Chess (Acornsoft)
-- Animal, Vegetable, Mineral Quiz
-- Backgammon
-- Barrage
-- Battle Ships
-- Chess (BBC Software)
+- Animal/Vegetable/Mineral (Bourne Educational Software) - _This isn't archived at bbcmicro.co.uk_
+- Backgammon (?) - _Maybe this was a type-in? I don't remember writing it myself so I don't think it's one of my own_
+- Barrage (Micro Power)
+- Battle Ships (?) - _Written by K.Stephenson - no idea who that is_
+- White Knight Mk12 (BBC Soft)
 - Chess (Computer Concepts)
-- Chess (Program Power)
-- English Civil War
-- Connect Four
-- Draughts
-- European Quiz
-- Five Dice
-- Geography Quiz
-- Another Geography Quiz
-- Gomoku
-- Gumshoe
-- Hangman
-- Hangman (another one)
-- Islandia
-- Ludo
-- Monopoly
-- Noughts and Crosses
-- Othello
-- Patience
-- Poker
-- Pontoon
-- Sliding Letter Puzzle
+- Chess (Micro Power)
+- English Civil War (Red Shift)
+- Four in a Row (Beebug Magazine)
+- Draughts (Acornsoft)
+- European Knowledge (Micro Power)
+- Five Dice (Beebug Magazine)
+- Where? (Micro Power) - _Called "Geography Quiz" in the menu_
+- Where? (Micro Power) - _Called "Another Geography Quiz" in the menu_
+- Gomoku (Cntury Communications)
+- Gumshoe Logic (Megacycal Software) - _Might be called Mindbenders but it doesn't seem to be in bbcmicro.co.uk either way_
+- Super Hangman (IJK Software) - _Called "hangman" in the menu_
+- Super Hangman (IJK Software) - _Called "hangman" in the menu in a different folder to the one above_
+- Islandia (Red Shift)
+- Ludo (Statasoft)
+- From Old Kent Road to Mayfair (Richard S. Ball) - _Called "Monopoly" in the menu_
+- Noughts and Crosses (BBC Soft)
+- Othello (?) - _Maybe this was a type-in? I don't remember writing it myself so I don't think it's one of my own_
+- Beeb Patience (Century Communications) - _Looks like my school friend may have decided to claim this as his own at some point :)_
+- Poker Dice (Statasoft)
+- Pontoon (Superior Software)
+- Sliding Letter Puzzle (Cliff Davies) - _Surprised to find this here - it was written by me for my O'Level_
 - Reversi (Acornsoft)
-- Reversi
-- Rubik's Cube
-- Scrabble
-- Stokmark
-- Telemark
-- British Towns Quiz
-- Trivial Pursuit
+- Othello (Beebug Magazine) - _Called "reversi" in the menu_
+- Cube Master (Acornsoft) - _Called "Rubik's Cube" in the menu_
+- Scrabble (Leisure Genius)
+- Stokmark (Acornsoft) - _One of the two games contained in Acornsoft's Business Games_
+- Telemark (Acornsoft) - _The other game contained in Acornsoft's Business Games_
+- Towns of Great Britain (Bradfield School) - _Don't know how I ended up with this but it won't be in bbcmicro.co.uk for sure_
+- Trivial Pursuit Genus Edition (Domark)
 ---
 ## Games 1
 _This one has more games on it than are showing up in the menu_
