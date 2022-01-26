@@ -152,37 +152,37 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Crazy Tracer (Acornsoft)
 ---
 ## Games - General
-- Space Man Sid
-- Tempest
+- Spaceman Sid (English Software)
+- Tempest (Superior Softwar)
 ---
 ## Games - Platform and Ladders + Repton
 ### Platform and Ladders
-- Arabian Nights
-- Dare Devil Denis
-- Mephisto
-- Monsters
-- Magic Mushrooms
-- Bounty Bob
-- Boffin
-- Boxer
-- Bug Eyes
-- Chuckie Egg
-- Felix and the Weevils
-- Fire Bug
-- Ghouls
-- Jet Power Jack
-- Donkey Kong Junior
-- Manic Miner
-- Mr Wimpy
-- Nutcraka
-- Spooks and Spiders
-- Vindaloo
-- Wallaby
+- Tales of the Arabian Nights (Interceptor)
+- Dare Devil Denis (Visions Software)
+- Mr. Mephisto (Euro-Byte)
+- Monsters (Acornsoft)
+- Magic Mushrooms (Acornsoft)
+- Bounty Bob Strikes Back (U.S. Gold)
+- Boffin 2 (Addictive Games) - _Named Boffin in the menu_
+- Boxer (Acornsoft)
+- Bug Eyes (Icon) - _Doesn't seem to work - probably a BBC Master issue_
+- Chuckie Egg (A&F Software) - _Doesn't work from menu as it's *RUN(NING) the wrong name - *RUN CHUCKIEEGG works fine_
+- Felix Meets the Evil Weevils (Micro Power)
+- Firebug (Acornsoft)
+- Ghouls (Micro Power)
+- Jet Power Jack (Micro Power) - _Crashed when run from menu but typing RUN then worked..._
+- Donkey Kong Junior (Atarisoft)
+- Manic Miner (Software Projects) - _Judging by the Flobberdob banner at loading, I would say this one was transferred to disc by me_
+- Mr. Wimpy (Ocean)
+- Nutcraka (Software Projects)
+- Spooks and Spiders (Software Invasion)
+- Vindaloo (Tynesoft)
+- Wallaby (Superior Software)
 ### Repton-type games
-- Repton 1
-- Repton 2
-- Repton 3
-- XOR
+- Repton 1 (Superior Software) - _Cracked and transferred to disc by me apparently - oh, the poetic skills I had as a youth_
+- Repton 2 (Superior Software)
+- Repton 3 (Superior Software)
+- XOR (Astral Software)
 ---
 ## Games - Sports
 - Brian Jacks Challenge
