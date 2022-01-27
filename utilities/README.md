@@ -80,7 +80,7 @@ A collection of various utilities I amassed over time
 - Diagram
 
 ## Acorn Computers
--- 65C102 co-processor support disk
+- 65C102 co-processor support disk
   
 ## Technomatic
 - Technomatic Epromer II
