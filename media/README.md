@@ -1,6 +1,22 @@
-# Music collections
+# Music, pictures and animations
 
 <details><summary>ADFS disc images</summary>
+
+## Pictures
+A large collection of pictures and a handful of animations
+
+<details><summary>Contents of disk</summary>
+
+* Boot the disc to see a slideshow of the images in the Pictures folder
+
+* To see the animations -
+ 
+ ```
+ *DIR GRAPHDEMO.GRAPHDBITS
+ CHAIN "^.BONES"
+ CHAIN "^.ANIMATDEMO"
+ ```
+ </details>
 
 ## Music
 A large collection of songs which can play on a standard BBC Micro.
