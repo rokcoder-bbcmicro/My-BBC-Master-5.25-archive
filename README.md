@@ -30,6 +30,8 @@ _This is a work in progress and will no doubt be going on for weeks (if not mont
 
 ---
 
+## Education
+Lots of programs that were used in schools
 ## Games
 These contain all the collections of games I had. Most of the disks are bootable and use the menu I wrote back in my school days.
 ## Music
