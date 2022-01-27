@@ -10,8 +10,6 @@ A collection of programs to do with word processing and desktop publishing
 ## Tedimen Software
 - Folio
 - Folio - font disc 1
-
-#### Advanced Folio
 - Advanced Folio - Data disc
 - Advanced Folio - "B" Work Disc
 - Advanced Folio - "C" Work Disc
