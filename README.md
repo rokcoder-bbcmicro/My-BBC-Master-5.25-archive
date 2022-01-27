@@ -34,8 +34,8 @@ _This is a work in progress and will no doubt be going on for weeks (if not mont
 Lots of programs that were used in schools
 ## Games
 These contain all the collections of games I had. Most of the disks are bootable and use the menu I wrote back in my school days.
-## Music
-A couple of disks - one contains music that runs on a standard BBC and the other requires a Music 500 (which BeebEm emulates extremely well)
+## Media
+A music that runs on a standard BBC, one that requires a Music 500 (which BeebEm emulates extremely well) and a disc full of pictures and animations
 ## My own programs
 Delve into here at your own risk. Lots of utilities, games, demos and more in varying stages of completion!
 ## Utilities
