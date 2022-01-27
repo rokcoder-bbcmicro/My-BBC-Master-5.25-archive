@@ -29,3 +29,4 @@ A collection of programs to do with word processing and desktop publishing
 - FontWise
   - 0: FontWise+
   - 1: Font Editor
+- FontWise+
