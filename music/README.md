@@ -1,5 +1,7 @@
 # Music collections
 
+<details><summary>ADFS disc images</summary>
+
 ## Music
 A large collection of songs which can play on a standard BBC Micro.
 
@@ -166,7 +168,7 @@ These compositions were definitely entered by me - I haven't tested them so have
 
 <details><summary>Contents of folder</summary>
 &nbsp  
- 
+
 - boh
 - DamBaccent
 - DamBusters
@@ -182,3 +184,12 @@ These compositions were definitely entered by me - I haven't tested them so have
 - wow
   </details>
   </details>
+
+ </details>
+
+<details><summary>DFS disc images</summary>
+&nbsp
+
+- Music - _Contains music that's playable on Island Logic's Music System - no idea what the music is though..._
+ 
+ </details>
