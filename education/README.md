@@ -13,6 +13,15 @@ These programs all fall somewhere within the catch-all "education" bracket
   - Spellings (?) `CHAIN "^.SPELL"`
   - Advanced Studies: Statistics Disc A (BBC Publications) `CHAIN "^.STATSPACKA"`
   - Advanced Studies: Statistics Disc B (BBC Publications) `CHAIN "^.STATSPACKB"`
+  
+## 1
+
+  - European Knowledge (Micro Power) `*DIR EUROKNOWDG` `CHAIN "EURO"`
+  - Forecaster (Triptych Publishing) `*DIR FORECASTER` `CHAIN "TEACH"`
+  - Linkword French (Acornsoft) `*DIR FRENCH` `CHAIN "FREN1"`
+  - Revise GCE/CSE Mathematics 1 (Acornsoft) `*DIR MATHS1` `CHAIN "PROGRAM"`
+  - Revise GCE/CSE Mathematics 2 (Acornsoft) `*DIR MATHS2` `CHAIN "PROGRAM"`
+  - Piracy (probably me) - _Looks like the source and mcode to strip protection off a Sherston product_
 </details>
     
 <details><summary>DFS Disks</summary>
