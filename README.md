@@ -38,6 +38,8 @@ These contain all the collections of games I had. Most of the disks are bootable
 A music that runs on a standard BBC, one that requires a Music 500 (which BeebEm emulates extremely well) and a disc full of pictures and animations
 ## My own programs
 Delve into here at your own risk. Lots of utilities, games, demos and more in varying stages of completion!
+## ROMs
+ROM images for use in sideways RAM (or burning to EPROMs)
 ## Utilities
 A few disks jam-packed full of utilities for disks, tapes, copying, programming and more
 ## Word processors
