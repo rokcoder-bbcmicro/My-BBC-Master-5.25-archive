@@ -52,9 +52,6 @@ These programs all fall somewhere within the catch-all "education" bracket
 ## Newman Software
 - Grasshopper
 
-## K. Goodier
-- BBC Test Programs
-
 ## Prism
 - Prism - _Network user terminal software (prsumably needing the prism modem)_
 
