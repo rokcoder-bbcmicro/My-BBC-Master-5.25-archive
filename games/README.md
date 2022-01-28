@@ -401,3 +401,11 @@ Looks like I was in the middle of hacking Frak onto disc!
 ### Star Trek type games
 - Star Force Seven (Bug-Byte)
 - Timetrek (Micro Power)
+
+## 6
+### Bridge
+- Colossus 4 Bridge (CDS Software) `*DIR BRIDGE` `CHAIN "BRIDGE"`
+### PennyMore
+- Not a Penny More, Not a Penny Less (Domark) `*DIR PENNYMORE` `CHAIN "A"`
+### TrivPurs
+- Trivial Pursuit II - A New Beginning (Domark) `*DIR TRIVPURS` `CHAIN "LOADER"` - _Doesn't seem to be on bbcmicro.co.uk_
