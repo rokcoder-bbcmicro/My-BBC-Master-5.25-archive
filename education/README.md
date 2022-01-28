@@ -1,6 +1,22 @@
 # Education
 These programs all fall somewhere within the catch-all "education" bracket
 
+<details><summary>ADFS Disks</summary>
+  
+## Education
+
+  To use this disk you need to start in the correct folder -
+  
+  `*DIR EDUCATION.EDUCATBITS`
+
+  - The French Mistress (Kosmos Software) `CHAIN "^.FRENCH"`
+  - Spellings (?) `CHAIN "^.SPELL"`
+  - Advanced Studies: Statistics Disc A (BBC Publications) `CHAIN "^.STATSPACKA"`
+  - Advanced Studies: Statistics Disc B (BBC Publications) `CHAIN "^.STATSPACKB"`
+</details>
+    
+<details><summary>DFS Disks</summary>
+
 ## Logotron
 - Pen Down - File Generator
 - Pen Down - Sign Writer
@@ -45,3 +61,5 @@ These programs all fall somewhere within the catch-all "education" bracket
 
 ## ???
 - Set sorting
+
+</details>
