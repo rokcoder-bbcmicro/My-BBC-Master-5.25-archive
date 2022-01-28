@@ -6,7 +6,7 @@ These are all projects that I wrote back in the day in various stages of complet
 - 🟢Dungeons and Dragons - _(Bootable disc) A Dungeons and Dragons project I was working on (inspired by Wizardry on the Apple II). Bits and pieces are done. I was happy with the general labyrinthine display style. Walking through the archway (not the gate) takes you into the actual dungeon. I've always intended to go back and finish this at some point..._
 ## Utilities
 - 🟢Date Stamp - _(Bootable disc) ROM image (and source) for a utility I wrote that maintains a date stamp for when files are created/updated/etc. Works on DFS as well as ADFS. I found this __extremely__ useful. Everything is done transparently - see timestamps simply by typing *STAMP. I just tested it on DFS for sanity reasons - other than the date showing up as 19A2 it seems fine. Y2K..._
-- 🟢UserPortControl - _(Bootable disc) A control language written by me that accompanies a control box that connects to the RS232 (creatde by my dad). Was used in schools where the children could attach all sorts of sensors, motors, etc to the control board and program them via my language (e.g. if heatSensor=on, turn on fan)_
+- 🟢UserPortControl - _(Bootable disc) A control language written by me that accompanies a control box that connects to the RS232 (created by my dad). Was used in schools where the children could attach all sorts of sensors, motors, etc to the control board and program them via my language (e.g. if heatSensor=on, turn on fan)_
 ## Graphical
 - Game of Life project
   - 2DLife
