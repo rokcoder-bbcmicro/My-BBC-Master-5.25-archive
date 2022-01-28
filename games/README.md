@@ -9,7 +9,7 @@ I might go through these disks at some point, remove duplication, ensure everyth
 
 <details><summary>ADFS disks</summary>
 
-## Adventures - Graphical 1
+## [Adventures - Graphical 1](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Adventures%20-%20Graphical%201.adf)
 _Uses my funky old menu that I was so proud of back then :) (As do most of these disks)_
 - Banjax (Robico) - _not working here for some reason_
 - Bone Cruncher (Superior Software)
@@ -27,14 +27,14 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Star Quake (Bubble Bus)
 - Thunderstruck (Audiogenic Software)
 ---
-## Adventures - Graphical 2
+## [Adventures - Graphical 2](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Adventures%20-%20Graphical%202.adf)
 - Bug Eyes 2 (Audiogenic Software)
 - Sim (Viper)
 - Codename Droid (Superior Software / Acornsoft)
 - Hunkidory (Bug-Byte)
 - Yoyo! (Superior Software)
 ---
-## Adventures 1
+## [Adventures 1](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Adventures%201.adf)
 ### Robico
 - Escape From Enthar Seven (Robico)
 - Rick Hanson (Robico)
@@ -50,7 +50,7 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Stranded (Superior Software)
 - Seek (Micro Power) - _Called Venture on the disc_
 ---
-## Adventures 2
+## [Adventures 2](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Adventures%202.adf)
 ### Abersoft
 - Classic Adventure (Melbourne House)
 ### Epic
@@ -67,10 +67,10 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Bored of the Rings Part 2 (Silversoft Ltd)
 - Bored of the Rings Part 3 (Silversoft Ltd)
 ---
-## Adventures 3
+## [Adventures 3](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Adventures%203.adf)
 - The Lord of the Rings (Melbourne House)
 ---
-## Games - Assorted
+## [Games - Assorted](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%20-%20Assorted.adf)
 ### Breakout Games
 - Breakout (Acornsoft)
 - Impact (Audiogenic)
@@ -118,7 +118,7 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Sea Lord (Bug-Byte)
 - Space City (Beebug Magazine)
 ---
-## Games - Frogger + General
+## [Games - Frogger + General](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%20-%20Frogger%20%2B%20General.adf)
 ### Frogger Games
 - Croaker (Micro Power)
 - Froglet (Argus Press)
@@ -152,11 +152,11 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Snake (Acornsoft)
 - Crazy Tracer (Acornsoft)
 ---
-## Games - General
+## [Games - General](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%20-%20General.adf)
 - Spaceman Sid (English Software)
 - Tempest (Superior Softwar)
 ---
-## Games - Platform and Ladders + Repton
+## [Games - Platform and Ladders + Repton](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%20-%20Platforms%20and%20ladders%20%2B%20Repton.adf)
 ### Platform and Ladders
 - Tales of the Arabian Nights (Interceptor)
 - Dare Devil Denis (Visions Software)
@@ -185,7 +185,7 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Repton 3 (Superior Software)
 - XOR (Astral Software)
 ---
-## Games - Sports
+## [Games - Sports](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%20-%20Sports.adf)
 - Brian Jacks: Superstar Challenge (Martech)
 - Crazee Rider (Superior Software)
 - World Cup Cricket (Copmuter Rentals) - _Called Test Cricket in the menu_
@@ -211,7 +211,7 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Winter Olympics (Tynesoft)
 - Matchday (Ocean) - _Another one apparently stripped of protection and trasnferred to disc by yours truly_
 ---
-## Games - Strategy, Skill and Intellect
+## [Games - Strategy, Skill and Intellect](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%20-%20Strategy%2C%20skill%20and%20intellect.adf)
 - Chess (Acornsoft)
 - Animal/Vegetable/Mineral (Bourne Educational Software) - _This isn't archived at bbcmicro.co.uk_
 - Backgammon (?) - _Maybe this was a type-in? I don't remember writing it myself so I don't think it's one of my own_
@@ -249,7 +249,7 @@ _Uses my funky old menu that I was so proud of back then :) (As do most of these
 - Towns of Great Britain (Bradfield School) - _Don't know how I ended up with this but it won't be in bbcmicro.co.uk for sure_
 - Trivial Pursuit Genus Edition (Domark)
 ---
-## Games 1
+## [Games 1](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%201.adf)
 _This one has more games on it than are showing up in the menu - I seem to have been in the process of moving games over from DFS which is why a handful of them are expecting the executables to be in the A directory_
 - Gyroscope (Melbourne House)
 - Joe Blade 2 (Players) - _Called "Joe Blade" in menu - also, runs in white instead of green which may be a BeebEm or Master thing?_
@@ -282,7 +282,7 @@ _This one has more games on it than are showing up in the menu - I seem to have 
 - Snapper (Acornsoft) - Another one waiting for me to sort the directories out - does work but needs manual poking_
 - Space Fighter (Superior Software)
 ---
-## Games 2
+## [Games 2](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%202.adf)
 ### Breakout Games`
 - Breakout (Acornsoft)
 ### Dig Dug type games
@@ -326,14 +326,14 @@ _This one has more games on it than are showing up in the menu - I seem to have 
 ### Space Invaders
 - Meteors (Acornsoft)
 ---
-## Games 3
+## [Games 3](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%203.adf)
 ### PlatLadder
 Looks like I was in the middle of hacking Frak onto disc!
 ### Strategy
 - Sink the Bismarck (Design People Software)
 - System 15000 (AVS)
 ---
-## Games 4
+## [Games 4](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%204.adf)
 ### Arcade Games
 - Star Wars (Domark)
 - Tetris (Mirrorsoft)
@@ -358,7 +358,7 @@ Looks like I was in the middle of hacking Frak onto disc!
 ### Shoot 'em ups
 - Galaforce (Superior Software)
 ---
-## Games 5
+## [Games 5](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/Games%205.adf)
 ### Maze Games
 - 3D Maze (IJK Software)
 - Beeb Maze (Beebug Magazine)
@@ -403,7 +403,7 @@ Looks like I was in the middle of hacking Frak onto disc!
 - Star Force Seven (Bug-Byte)
 - Timetrek (Micro Power)
 
-## 6
+## [6](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/adfs/6.adf)
 ### Bridge
 - Colossus 4 Bridge (CDS Software) `*DIR BRIDGE` `CHAIN "BRIDGE"`
 ### PennyMore
@@ -418,7 +418,7 @@ Looks like I was in the middle of hacking Frak onto disc!
 <details><summary>DFS Disks</summary>
 &nbsp
   
-- Micro User and Impact Software Happy Christmas
+- [Micro User and Impact Software Happy Christmas](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/games/dfs/Micro%20User%20and%20Impact%20Software%20Happy%20Christmas.dsd)
 
 </details>
 
