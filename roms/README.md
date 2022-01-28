@@ -3,7 +3,7 @@ These are a collection of ROMs to load into sideways RAM (or whatever else you m
 
 The discs are all bootable and drop into a useful sideways ROM menu/loader (BBC Master only). Press the letter of a folder to scan the folder. Use arrow keys to navigate the folder. Press the sideways RAM bank number to load the ROM.
 
-## Sideways RAM 1
+## [Sideways RAM 1](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/roms/adfs/Sideways%20RAM%201.adf)
 
 ### Communication
   - AMPROM 1.0 (CTP Software)
@@ -58,7 +58,7 @@ The discs are all bootable and drop into a useful sideways ROM menu/loader (BBC 
   - ViewSheet 1.0 (Proptechnic)
   - Xcal (B.Worrall)
 
-## Sideways RAM 2
+## [Sideways RAM 2](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/roms/adfs/Sideways%20RAM%202.adf)
 
 ### FileSys
   - Acorn ADFS 150 (Acorn)
@@ -116,7 +116,7 @@ The discs are all bootable and drop into a useful sideways ROM menu/loader (BBC 
   - Wordwise 1.20 (Computer Concepts)
   - Wordwise-Plus 1.4E (Computer Concepts)
   
-## Sideways RAM 3
+## [Sideways RAM 3](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/roms/adfs/Sideways%20RAM%203.adf)
 
 ### Printer
   - Colour Dumpout 3.2f (Peter Trevethic)
