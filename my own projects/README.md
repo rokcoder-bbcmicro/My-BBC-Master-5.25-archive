@@ -13,7 +13,7 @@ These are all projects that I wrote back in the day in various stages of complet
     - __LifeSlowMC - Run this with *RUN LifeSlowMC to see the game of life__
     - MkLifeSlow - _The assembly language which creates LifeSlowMC_
   - 3DLife
-    - __3DLife -_The Game of Life in 3D - might be wise to set BeebEm to 5x speed!__
+    - __3DLife -The Game of Life in 3D - might be wise to set BeebEm to 5x speed!__
     - MakeMC - _The assembly language which creates MC_
     - MC - _The machine code that runs at the heart of 3DLife_
     - GameOfLife - _3DLife in BASIC (I think) but it runs out of memory_
