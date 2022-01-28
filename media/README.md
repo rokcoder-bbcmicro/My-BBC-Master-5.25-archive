@@ -206,6 +206,6 @@ These compositions were definitely entered by me - I haven't tested them so have
 <details><summary>DFS disc images</summary>
 &nbsp
 
-- Music - _Contains music that's playable on Island Logic's Music System - no idea what the music is though..._
+- [Music](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/media/dfs/music.dsd) - _Contains music that's playable on Island Logic's Music System - no idea what the music is though..._
  
  </details>
