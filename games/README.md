@@ -3,11 +3,12 @@ Lots of games packed onto these images (accessed via the menu I wrote as a young
 
 There are one or two games in there that I wrote when I was a young lad (and some games will have had their protections stripped off by me and/or some tape-based or tape-only games will have been transferred from tape to disk by me).
 
-Hopefully I'll go through these disks at some point, remove duplication, ensure everything runs from menus, etc. For now, I just wanted to safely archive everything while my 5.25" floppies are still readable!
-
-*Note: These are the disks I have on ADFS. DFS disks will be added next. I'll then be archiving non-games, my own projects, etc. Any feedback is welcome!*
+I might go through these disks at some point, remove duplication, ensure everything runs from menus, etc. For now, I just wanted to safely archive everything while my 5.25" floppies are still readable!
 
 ---
+
+<details><summary>ADFS disks</summary>
+
 ## Adventures - Graphical 1
 _Uses my funky old menu that I was so proud of back then :) (As do most of these disks)_
 - Banjax (Robico) - _not working here for some reason_
@@ -409,3 +410,12 @@ Looks like I was in the middle of hacking Frak onto disc!
 - Not a Penny More, Not a Penny Less (Domark) `*DIR PENNYMORE` `CHAIN "A"`
 ### TrivPurs
 - Trivial Pursuit II - A New Beginning (Domark) `*DIR TRIVPURS` `CHAIN "LOADER"` - _Doesn't seem to be on bbcmicro.co.uk_
+
+</details>
+
+<details><summary>DFS Disks</summary>
+&nbsp
+  
+- Micro User and Impact Software Happy Christmas
+
+</details>
