@@ -18,7 +18,7 @@ A large collection of pictures and a handful of animations
  ```
  </details>
 
-## Music
+## [Music](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/media/adfs/Music.adf)
 A large collection of songs which can play on a standard BBC Micro.
 
 It's worth noting that there are many more songs on this disk than show up in the menu. You'll have to dig inside manually to find the rest. At least one of these songs was programmed by yours truly!
@@ -64,7 +64,7 @@ It's worth noting that there are many more songs on this disk than show up in th
 - whiter shad of pale
 </details>
 
-## Ample Music
+## [Ample Music](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/media/adfs/AmpleMusic.adf)
 These files require the use of a Music 500 (or 5000). I remember being lucky enough to get one of these for a birthday present from my parents.
 
 Fortunately BeebEm emulates the Music 5000 (via an on/off menu option under the Sound heading) so you can try these without needing the extra hardware. If you boot the disk it drop you into AMPLE which is the language used by the Music 5000. I remember very little about it but have recalled just enough to play these tracks!
@@ -201,6 +201,8 @@ These compositions were definitely entered by me - I haven't tested them so have
   </details>
   </details>
 
+ https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/media/adfs/Pictures.adf
+ 
  </details>
 
 <details><summary>DFS disc images</summary>
