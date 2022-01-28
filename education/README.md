@@ -54,7 +54,7 @@ These programs all fall somewhere within the catch-all "education" bracket
 - [Marvel](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/education/dfs/marvel.dsd) - _Program to process documents downloaded from NERIS_
 
 ## Leeds Education Authority
-- {database](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/education/dfs/database.dsd) - _Looks like a school database system_
+- [database](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/education/dfs/database.dsd) - _Looks like a school database system_
 
 ## MEP
 - [Story Writer](https://github.com/rokcoder-bbcmicro/My-BBC-Master-5.25-archive/raw/main/education/dfs/Story%20Writer.dsd)
